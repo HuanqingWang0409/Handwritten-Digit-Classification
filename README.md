@@ -1,5 +1,5 @@
 # Handwritten-Digit-Classification
-▪	Identified the handwritten digits in the MNIST dataset using three classification techniques: Logistic Regression, Random Forest with Principal Component Analysis and Convolutional Neural Network.<br />
+▪	We aimed to identify the handwritten digits in the MNIST dataset using three classification techniques: Logistic Regression, Random Forest with Principal Component Analysis and Convolutional Neural Network.<br />
 
 ▪	Random forest method with PCA had misclassification rate of 4.85% on the test set, where 300 trees and 67 principal components were used. The running time was
 around 90 seconds.<br />
