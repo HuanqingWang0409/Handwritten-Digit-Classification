@@ -6,4 +6,4 @@ around 90 seconds.<br />
 
 ▪	Logistic regression method had misclassification rate 7.09% and running time 61 sec.<br />
 
-▪	Convolutional Neural Network took 11.44 sec to train the network, with an error rate of 1.84% on the test set.<br />
+▪	Convolutional Neural Network had misclassification rate 1.84% and running time 11.44 sec.<br />
